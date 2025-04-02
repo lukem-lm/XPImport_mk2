@@ -2,8 +2,7 @@
 Updated nanoindentation registration software based on XPImport. Removed bundle/batch functionality and created template.
 
 Based on https://github.com/cmmagazz/XPressImport, with only minor changes made.
-
-Please refer to this repository to correctly reference use.
+Please refer to this repository to correctly referencing.
 
 To update the excel template with nanoindentation data received, use 'Required Inputs' and 'Test 0001 Tagged' sheets.
 
